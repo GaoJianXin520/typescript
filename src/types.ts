@@ -1,3 +1,5 @@
+export {};
+
 let a: 10;
 let b: 'male' | 'female';
 b = 'male';
